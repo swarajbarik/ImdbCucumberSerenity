@@ -1,0 +1,3 @@
+NAME,EMAIL,PASSWORD,CONFIRMPASSWORD,EXPECTEDRESULT
+swaraj,swarajbarik07@gmail.com,swaraj123,swaraj123,swaraj
+swaraj1,swarajbarik7@gmail.com,swaraj123,swaraj123,swaraj1

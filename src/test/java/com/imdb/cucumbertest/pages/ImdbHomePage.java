@@ -5,6 +5,7 @@ import java.util.stream.Collectors;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindAll;
 
 import net.serenitybdd.core.annotations.findby.FindBy;
 import net.serenitybdd.core.pages.WebElementFacade;
@@ -20,7 +21,7 @@ public class ImdbHomePage extends PageObject {
 	@FindBy(linkText = "Most Popular TV Shows")
 	public WebElementFacade mostPopularTvShows;
 
-	@FindBy(xpath = "//table/tbody/tr")
+	@FindAll({@org.openqa.selenium.support.FindBy(xpath = "//table/tbody/tr")})
 	private WebElement imdbRimdbTable;
 
 	@FindBy(linkText = "Game of Thrones")
