@@ -1,7 +1,8 @@
-com\imdb\cucumbertest\pages\ImdbHomePage.class
-com\imdb\cucumbertest\DefinitionTestSuite.class
+com\imdb\cucumbertest\RegistrationWithExcelDataStepDef.class
 com\imdb\cucumbertest\pages\RegistrationPage.class
-com\imdb\cucumbertest\pages\ShowDescriptionPage.class
 com\imdb\cucumbertest\steps\RegistrationStepDefinitions.class
 com\imdb\cucumbertest\steps\DefinitionSteps.class
+com\imdb\cucumbertest\pages\ImdbHomePage.class
+com\imdb\cucumbertest\DefinitionTestSuite.class
+com\imdb\cucumbertest\pages\ShowDescriptionPage.class
 com\imdb\cucumbertest\steps\serenity\EndUserSteps.class

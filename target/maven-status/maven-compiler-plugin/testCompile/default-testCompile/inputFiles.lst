@@ -1,6 +1,7 @@
 F:\Work\IncubeIMDBCucumberTest\src\test\java\com\imdb\cucumbertest\pages\RegistrationPage.java
 F:\Work\IncubeIMDBCucumberTest\src\test\java\com\imdb\cucumbertest\pages\ShowDescriptionPage.java
 F:\Work\IncubeIMDBCucumberTest\src\test\java\com\imdb\cucumbertest\steps\RegistrationStepDefinitions.java
+F:\Work\IncubeIMDBCucumberTest\src\test\java\com\imdb\cucumbertest\RegistrationWithExcelDataStepDef.java
 F:\Work\IncubeIMDBCucumberTest\src\test\java\com\imdb\cucumbertest\pages\ImdbHomePage.java
 F:\Work\IncubeIMDBCucumberTest\src\test\java\com\imdb\cucumbertest\steps\serenity\EndUserSteps.java
 F:\Work\IncubeIMDBCucumberTest\src\test\java\com\imdb\cucumbertest\steps\DefinitionSteps.java

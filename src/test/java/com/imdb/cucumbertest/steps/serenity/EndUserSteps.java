@@ -18,7 +18,6 @@ public class EndUserSteps {
         imdbHomePage.getDriver().manage().window().maximize();
     }
 
-//-----------------------------------------------------------------------------------------------
     @Step
 	public void moves_mouse_to_moviesandtvshows() {
     	imdbHomePage.move_mouse();
